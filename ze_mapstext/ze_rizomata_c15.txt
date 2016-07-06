@@ -2,42 +2,49 @@
 {
 	"*** Map by Airvulpes ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作:Airvulpes 翻译:胖次 **"
 	}
 	"*** Hold 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守30秒 **"
+		"DoorCountDown"      "30"
 	}
 	"*** Hold 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守20秒 **"
+		"DoorCountDown"      "20"
 	}
 	"*** Hold 25 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守25秒 **"
+		"DoorCountDown"      "25"
 	}
 	"*** doors opens 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将于10秒后打开 **"
+		"DoorCountDown"          "10"
 	}
 	"*** Door opens 25 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将于25秒后打开 **"
+		"DoorCountDown"          "25"
 	}
 	"*** Middle door opens 15 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**中门将在15秒后打开 **"
+		"DoorCountDown"           "15"
 	}
 	"*** Door opens 35 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在35秒后打开 **"
+		"DoorCountDown"          "35"
 	}
 	"*** ZOMBIE GOT INSIDE THE LIFT ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上了电梯 **"
 	}
 	"*** STAGE FAILED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**闯关失败 **"
 	}
 }
